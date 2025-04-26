@@ -1,4 +1,4 @@
-# 4D Heap Tree
+# Ex3D Heap Tree
 ## DATE:
 ## AIM:
 To write a C function to delete an element in a Heap Tree.
