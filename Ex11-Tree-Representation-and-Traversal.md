@@ -1,5 +1,5 @@
-# Ex3A Tree Representation and Traversal
-## DATE:
+# Ex-3A Tree Representation and Traversal
+## DATE: 15-05-2025
 ## AIM:
 To write a C function to perform post order traversal of a binary tree.
 
